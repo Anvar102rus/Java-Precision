@@ -6,7 +6,7 @@
 
 В результате тестирования выявлены следующие дефекты:
 
-* [Java precision error when using floating point variable Double](https://github.com/Anvar102rus/Java-Precision/issues/1#issue-969230675)
+* [Ошибка при подсчёте бонусов](https://github.com/Anvar102rus/Java-Precision/issues/1#issue-969230675)
 
 ## Описание процесса тестирования
 В процессе тестирования использовались следующие артефакты*:
